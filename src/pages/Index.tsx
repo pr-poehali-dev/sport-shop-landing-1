@@ -24,7 +24,7 @@ const Index = () => {
       name: 'Профессиональный футбольный мяч',
       category: 'football',
       price: '2 990 ₽',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?w=500',
       badge: 'Хит продаж',
     },
     {
@@ -32,7 +32,7 @@ const Index = () => {
       name: 'Баскетбольные кроссовки Premium',
       category: 'basketball',
       price: '8 990 ₽',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500',
       badge: 'Новинка',
     },
     {
@@ -40,21 +40,21 @@ const Index = () => {
       name: 'Беговые кроссовки с амортизацией',
       category: 'running',
       price: '6 490 ₽',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500',
     },
     {
       id: 4,
       name: 'Набор гантелей 2х5 кг',
       category: 'fitness',
       price: '3 490 ₽',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=500',
     },
     {
       id: 5,
       name: 'Очки для плавания профи',
       category: 'swimming',
       price: '1 290 ₽',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1530549387789-4c1017266635?w=500',
       badge: 'Скидка',
     },
     {
@@ -62,7 +62,7 @@ const Index = () => {
       name: 'Футбольные бутсы Elite',
       category: 'football',
       price: '7 990 ₽',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500',
     },
   ];
 
